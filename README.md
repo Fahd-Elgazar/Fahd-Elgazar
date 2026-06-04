@@ -4,9 +4,9 @@ AI Engineering Student at AASTMT with a GPA of 3.80/4.00 (Excellent with High Ho
 
 ## About Me
 
-* Team Lead & Backend Lead for an Explainable Hybrid GraphRAG Academic AI Platform
+* Team Lead & Backend Lead building an Explainable Hybrid GraphRAG Academic AI Platform using Neo4j, Qdrant, FastAPI, Gemini, and Ollama.
 * Interested in Generative AI, GraphRAG, Knowledge Graphs, Machine Learning, NLP, Computer Vision, and Backend Engineering
-* Building AI systems using LLMs, Neo4j, Qdrant, FastAPI, Docker, and modern retrieval architectures
+* Building AI systems across Generative AI, Machine Learning, Knowledge Graphs, NLP, and scalable backend engineering.
 
 ## Featured Projects
 
